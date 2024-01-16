@@ -1,0 +1,1 @@
+# AdGuard-Scam-Hosting-List
