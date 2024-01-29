@@ -1,2 +1,2 @@
-@@||fpdhosting.ro^
-@@||infinityhosting.ro^
+||fpdhosting.ro^
+||infinityhosting.ro^
