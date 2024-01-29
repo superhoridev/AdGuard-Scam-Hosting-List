@@ -1,2 +1,4 @@
 ||fpdhosting.ro^
 ||infinityhosting.ro^
+||elixhost.biz^ # same shit as infinity hosting
+||scyte.biz^ #same shit as elixhost and infinity hosting
