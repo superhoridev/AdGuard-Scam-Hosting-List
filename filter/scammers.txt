@@ -4,3 +4,4 @@
 ||elixhost.biz^
 # same shit as elixhost and infinity hosting
 ||scyte.biz^
+||sparixx.cloud^
