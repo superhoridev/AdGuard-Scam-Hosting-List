@@ -1,7 +1,1 @@
-||fpdhosting.ro^
 ||infinityhosting.ro^
-# same shit as infinity hosting
-||elixhost.biz^
-# same shit as elixhost and infinity hosting
-||scyte.biz^
-||sparixx.cloud^
