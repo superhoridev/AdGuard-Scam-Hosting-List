@@ -1,7 +1,20 @@
-||fpdhosting.ro^
+# ---UNKNOWN--- #
 ||infinityhosting.ro^
-# same shit as infinity hosting
-||elixhost.biz^
-# same shit as elixhost and infinity hosting
-||scyte.biz^
-||sparixx.cloud^
+
+# ---NO LEGAL DOCUMENTS--- #
+||creepercastle.cloud^
+||thinlinehosting.com^
+
+# ---VERIFIED ON DRAMA.GG--- #
+||sillydev.co.uk^
+||apexnodes.xyz^
+||endercloud.in^
+||kaesyr.dpdns.org^
+||sodiumnodes.org^
+||pyro.host^
+||tozhost.space^
+||atbphosting.com^
+
+# ---OWNERS WITH PAST LEGAL PROBLEMS--- #
+||hammervm.com^
+
